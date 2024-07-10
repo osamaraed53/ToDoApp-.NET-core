@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {}
+    "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
+    "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\ToDoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "projectUniqueName": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
         "projectName": "ToDoApp",
-        "projectPath": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
-        "packagesPath": "C:\\Users\\khale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\obj\\",
+        "projectPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+        "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\khale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,6 +61,10 @@
               "target": "Package",
               "version": "[8.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -71,10 +80,6 @@
               "version": "[8.0.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -110,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

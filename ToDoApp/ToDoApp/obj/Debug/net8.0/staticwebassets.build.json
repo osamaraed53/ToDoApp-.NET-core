@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "Hash": "6NyerwfKZ8aSUS6R3DYeLmeLSR6f957yvPFrrIG09rA=",
-  "Source": "ToDoApp",
-  "BasePath": "_content/ToDoApp",
+  "Hash": "n1y4P01dQNlUFx5tv3S7R0Z9XG5ehq0R43wJK8x2E7Y=",
+  "Source": "ToDoApp.Api",
+  "BasePath": "_content/ToDoApp.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -25,13 +25,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -44,15 +44,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\khale\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\osama\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoApp.styles.css",
-      "SourceId": "ToDoApp",
+      "Identity": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoApp.Api.styles.css",
+      "SourceId": "ToDoApp.Api",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/ToDoApp",
-      "RelativePath": "ToDoApp.styles.css",
+      "ContentRoot": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ToDoApp.Api",
+      "RelativePath": "ToDoApp.Api.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\khale\\source\\repos\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ToDoApp.Api.styles.css"
     }
   ]
 }

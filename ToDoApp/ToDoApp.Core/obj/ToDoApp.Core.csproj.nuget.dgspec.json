@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\ToDoApp.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\ToDoApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\ToDoApp.Core.csproj",
+        "projectName": "ToDoApp.Core",
+        "projectPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\ToDoApp.Core.csproj",
+        "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\ToDoApp.EF.csproj": {
+                "projectPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\ToDoApp.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "EntityFrameworkCore.Exceptions.Common": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\ToDoApp.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\ToDoApp.EF.csproj",
+        "projectName": "ToDoApp.EF",
+        "projectPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\ToDoApp.EF.csproj",
+        "packagesPath": "C:\\Users\\osama\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\osama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

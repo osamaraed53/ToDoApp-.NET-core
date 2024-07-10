@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\repositories\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\repositories\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|solutionrelative:todoapp\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\interfaces\\iusertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06417242-E927-4C39-AE88-420C715B7218}|ToDoApp\\ToDoApp.Api.csproj|solutionrelative:todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|c:\\users\\osama\\onedrive\\desktop\\test\\todoapp-.net-core\\todoapp\\todoapp.core\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B364DF-0485-49D1-A833-FA4A1676C9BE}|ToDoApp.Core\\ToDoApp.Core.csproj|solutionrelative:todoapp.core\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 715,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:51:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IUserTaskRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Interfaces\\IUserTaskRepository.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IUserTaskRepository.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Interfaces\\IUserTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:50:44.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:48:58.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\UserTaskRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Repositories\\UserTaskRepository.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\UserTaskRepository.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Repositories\\UserTaskRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:49:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserTaskController.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\Controllers\\UserTaskController.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Controllers\\UserTaskController.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\Controllers\\UserTaskController.cs",
+              "RelativeToolTip": "ToDoApp\\Controllers\\UserTaskController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:32:46.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T11:36:53.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeToolTip": "ToDoApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T10:34:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ToDoApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:32:46.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp.Core\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\osama\\OneDrive\\Desktop\\test\\ToDoApp-.NET-core\\ToDoApp\\ToDoApp.Core\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "ToDoApp.Core\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:30:29.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

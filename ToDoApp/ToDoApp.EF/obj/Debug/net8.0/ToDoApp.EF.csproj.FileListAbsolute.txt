@@ -1,0 +1,15 @@
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.csproj.AssemblyReference.cache
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.AssemblyInfoInputs.cache
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.AssemblyInfo.cs
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.csproj.CoreCompileInputs.cache
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.sourcelink.json
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\bin\Debug\net8.0\ToDoApp.EF.deps.json
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\bin\Debug\net8.0\ToDoApp.EF.runtimeconfig.json
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\bin\Debug\net8.0\ToDoApp.EF.dll
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\bin\Debug\net8.0\ToDoApp.EF.pdb
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.dll
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\refint\ToDoApp.EF.dll
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.pdb
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ToDoApp.EF.genruntimeconfig.cache
+C:\Users\osama\OneDrive\Desktop\test\ToDoApp-.NET-core\ToDoApp\ToDoApp.EF\obj\Debug\net8.0\ref\ToDoApp.EF.dll
